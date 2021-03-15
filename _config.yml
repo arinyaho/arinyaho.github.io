@@ -2,7 +2,7 @@
 title:               arinyaho
 tagline:             '이 순간은 영원하다'
 description:         'it from bit'
-url:                 http://arinyaho.github.io
+url:                 https://arinyaho.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty

@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>arinyaho</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2021-03-15T23:01:46+09:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://arinyaho.github.io/atom.xml" rel="self"/>
+ <link href="https://arinyaho.github.io/"/>
+ <updated>2021-03-15T23:04:08+09:00</updated>
+ <id>https://arinyaho.github.io</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>arinyaho</name>
+   <email></email>
  </author>
 
  
